@@ -9,7 +9,7 @@ Use the ES6 module import syntax [ES6 Module](https://developer.mozilla.org/en-U
 
 ## Usage
 
-```
+```javascript
 import eventEmitter from 'node_modules/event-emitter-pure';
 
 // Create a new emitter
